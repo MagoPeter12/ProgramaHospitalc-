@@ -1,0 +1,6 @@
+C:\Users\Tecnico\Documents\Programa Hospital\Programa Hospital\bin\Debug\Programa Hospital.exe.config
+C:\Users\Tecnico\Documents\Programa Hospital\Programa Hospital\bin\Debug\Programa Hospital.exe
+C:\Users\Tecnico\Documents\Programa Hospital\Programa Hospital\bin\Debug\Programa Hospital.pdb
+C:\Users\Tecnico\Documents\Programa Hospital\Programa Hospital\obj\Debug\Programa Hospital.csprojResolveAssemblyReference.cache
+C:\Users\Tecnico\Documents\Programa Hospital\Programa Hospital\obj\Debug\Programa Hospital.exe
+C:\Users\Tecnico\Documents\Programa Hospital\Programa Hospital\obj\Debug\Programa Hospital.pdb
